@@ -1,2 +1,4 @@
 # TUST
-研究生期间生物信息相关代码
+
+<img src="https://img.shields.io/hexpm/l/plug" alt="license" />
+
